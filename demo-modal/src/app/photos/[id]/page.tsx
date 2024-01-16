@@ -1,3 +1,4 @@
+
 export default function PhotoPage({
   params: { id },
 }: {
